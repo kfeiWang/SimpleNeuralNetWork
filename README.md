@@ -1,0 +1,1 @@
+learn Neural Network from implement it.
